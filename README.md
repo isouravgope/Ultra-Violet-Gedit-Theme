@@ -9,12 +9,12 @@
 <div align="center">
     <p></p>
     <a href="https://github.com/thefallnn/dotfiles/stargazers">
-        <img src="https://img.shields.io/github/stars/thefallnn/dotfiles?color=%23BB9AF7&labelColor=%231A1B26&style=for-the-badge">
+        <img src="https://img.shields.io/github/stars/soruav2k/dotfiles?color=%23BB9AF7&labelColor=%231A1B26&style=for-the-badge">
     </a>
     <a href="https://github.com/thefallnn/dotfiles/network/members/">
-        <img src="https://img.shields.io/github/forks/thefallnn/dotfiles?color=%237AA2F7&labelColor=%231A1B26&style=for-the-badge">
+        <img src="https://img.shields.io/github/forks/sourav2k/dotfiles?color=%237AA2F7&labelColor=%231A1B26&style=for-the-badge">
     </a>
 </div>
 <p align="center">
-<img src="https://raw.githubusercontent.com/thefallnn/dotfiles/bspwm/samples/Jun26-19-06.png" alt="img" align="center" width="400px">
+<img src="https://raw.githubusercontent.com/sourav2k/dotfiles/bspwm/samples/Jun26-19-06.png" alt="img" align="center" width="400px">
 </p>
