@@ -9,7 +9,7 @@
 <div align="center">
     <p></p>
     <a href="https://github.com/sourav2k/dotfiles/stargazers">
-        <img src="https://img.shields.io/github/stars/soruav2k/dotfiles?color=%23BB9AF7&labelColor=%231A1B26&style=for-the-badge">
+        <img src="https://img.shields.io/github/stars/sourav2k/dotfiles?color=%23BB9AF7&labelColor=%231A1B26&style=for-the-badge">
     </a>
     <a href="https://github.com/thefallnn/dotfiles/network/members/">
         <img src="https://img.shields.io/github/forks/sourav2k/dotfiles?color=%237AA2F7&labelColor=%231A1B26&style=for-the-badge">
