@@ -1,6 +1,6 @@
 #!/bin/sh 
 
-# Copyright (C) 2022 Sourav 'TheFallnn' Gope
+# Copyright (C) 2022 Sourav 'sourav2k' Gope
 
 FILE="$PWD/violet.xml"
 if [[  -f "$FILE" ]]; 
