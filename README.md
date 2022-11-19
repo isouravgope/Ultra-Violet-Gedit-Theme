@@ -4,12 +4,12 @@
   
   
 <p align="center">
-  <img width="25%" src="https://github.com/sourav2k.png" />
+  <img width="25%" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" />
 </p>
 <div align="center">
     <p></p>
-    <a href="https://github.com/sourav2k/dotfiles/stargazers">
-        <img src="https://img.shields.io/github/stars/sourav2k/dotfiles?color=%23BB9AF7&labelColor=%231A1B26&style=for-the-badge">
+    <a href="https://github.com/thefallnn/dotfiles/stargazers">
+        <img src="https://img.shields.io/github/stars/thefallnn/dotfiles?color=%23BB9AF7&labelColor=%231A1B26&style=for-the-badge">
     </a>
     <a href="https://github.com/thefallnn/dotfiles/network/members/">
         <img src="https://img.shields.io/github/forks/sourav2k/dotfiles?color=%237AA2F7&labelColor=%231A1B26&style=for-the-badge">
